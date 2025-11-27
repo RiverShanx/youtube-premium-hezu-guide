@@ -30,7 +30,7 @@ YouTube合租是通过家庭组共享账号，以远低于官方定价的成本�
 
 1、这里以[星际放映厅](https://www.naifeistation.com/i/Satqr)为例，先访问其官网进行注册，其它平台操作类似
 
-https://xmpick.cn/wp-content/uploads/2025/11/截屏2025-11-27-11.27.15-scaled.jpg<img width="2560" height="1139" alt="image" src="https://github.com/user-attachments/assets/a8939c38-221f-4b3c-9d75-fd1fd8e9888e" />
+<img width="2560" height="1139" alt="image" src="https://github.com/user-attachments/assets/a8939c38-221f-4b3c-9d75-fd1fd8e9888e" />
 
 2、然后在平台上找到“影音流媒体”栏、然后可以看到YouTube页面如截图所示，根据个人需求选择相应套餐，输入优惠码"xmpick"还可以再享受优惠折扣，接着按平台的操作进行即可。
 
@@ -44,7 +44,7 @@ https://xmpick.cn/wp-content/uploads/2025/11/截屏2025-11-27-11.28.41-scaled.jp
 
 ## 🏆 YouTube Premium 合租平台对比（2025 最新）
 
-为了更直观地比较各平台的价格、优势与适用场景，以下为最新整理的六大主流合租平台对比表（全 Markdown，可直接用于 GitHub、博客、Notion 等）。
+为了更直观地比较各平台的价格、优势与适用场景，以下为最新整理的六大主流合租平台对比表。
 
 | 平台 | 价格（年付/月均） | 优惠码 | 核心亮点 | 适合人群 |
 |------|------------------|---------|------------|--------------|
