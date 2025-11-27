@@ -34,7 +34,7 @@ YouTube合租是通过家庭组共享账号，以远低于官方定价的成本�
 
 2、然后在平台上找到“影音流媒体”栏、然后可以看到YouTube页面如截图所示，根据个人需求选择相应套餐，输入优惠码"xmpick"还可以再享受优惠折扣，接着按平台的操作进行即可。
 
-https://xmpick.cn/wp-content/uploads/2025/11/截屏2025-11-27-11.28.41-scaled.jpg<img width="2560" height="1149" alt="image" src="https://github.com/user-attachments/assets/a608f86c-2693-454b-8668-8bf5b01271b5" />
+<img width="2560" height="1149" alt="image" src="https://github.com/user-attachments/assets/a608f86c-2693-454b-8668-8bf5b01271b5" />
 
 其实这种流程也是不复杂，一般来说通过这行备案的平台升级YouTube会员一般还是很快就升级成功了，也有专门的客服支撑团队来处理这些售后问题，比如这个平台是经过ICP备案的，他的备案号是浙ICP备2023017856号是可以备案平台能查到其经营信息的，所以稳定性还是很高的。
 
